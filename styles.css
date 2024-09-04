@@ -1,0 +1,13 @@
+<div class="SubjectSelectScreen w-[1440px] h-[1024px] relative bg-[#d9d9d9]">
+  <div class="Rectangle4 w-[823px] h-[119px] left-[308px] top-[372px] absolute bg-[#1cd019] rounded-[50px]"></div>
+  <div class="Biology left-[590px] top-[391px] absolute text-center text-white text-[66px] font-normal font-['Short Stack']">Biology</div>
+  <div class="Biology left-[581px] top-[811px] absolute text-center text-white text-[66px] font-normal font-['Short Stack']">Biology</div>
+  <div class="Rectangle6 w-[823px] h-[119px] left-[308px] top-[652px] absolute bg-[#ea1fbd] rounded-[50px]"></div>
+  <div class="Rectangle7 w-[823px] h-[119px] left-[308px] top-[792px] absolute bg-[#e19b31] rounded-[50px]"></div>
+  <div class="Chemistry left-[530px] top-[811px] absolute text-center text-white text-[66px] font-normal font-['Short Stack']">Chemistry</div>
+  <div class="Rectangle5 w-[823px] h-[119px] left-[308px] top-[512px] absolute bg-[#20c3ce] rounded-[50px]"></div>
+  <div class="Math left-[625px] top-[531px] absolute text-center text-white text-[66px] font-normal font-['Short Stack']">Math</div>
+  <div class="Physics left-[581px] top-[671px] absolute text-center text-white text-[66px] font-normal font-['Short Stack']">Physics</div>
+  <div class="ChooseASubject w-[664px] h-[92px] left-[387px] top-[183px] absolute text-center text-black text-[80px] font-normal font-['Balsamiq Sans']">Choose a subject!</div>
+</div>
+
